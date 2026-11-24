@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Sara Brito — QA Engineer e Desenvolvedora">
+  <defs>
+    <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#18202a" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="fade" cx="78%" cy="50%" r="70%">
+      <stop offset="0" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="#0d1117"/>
+  <rect width="1200" height="300" rx="18" fill="url(#g)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#fade)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#1f2935"/>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <circle cx="68" cy="88" r="5" fill="#2dd4bf"/>
+    <text x="84" y="94" font-size="18" fill="#2dd4bf">disponível para oportunidades</text>
+    <text x="60" y="168" font-size="68" font-weight="600" fill="#e6edf3">Sara Brito</text>
+    <text x="62" y="212" font-size="26" fill="#8b9bad">QA Engineer <tspan fill="#2dd4bf">&amp;</tspan> Desenvolvedora</text>
+    <text x="62" y="252" font-size="17" fill="#c5d1dd">automação · APIs · performance · produtos web</text>
+  </g>
+
+  <g transform="translate(960 150)">
+    <circle r="112" fill="none" stroke="#1f2935"/>
+    <circle r="124" fill="none" stroke="#2dd4bf" stroke-width="1.5" stroke-dasharray="8 14" opacity=".8">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="124" r="6" fill="#2dd4bf">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="-150" y="-52" width="300" height="104" rx="14" fill="#151b24" stroke="#2f3c4b"/>
+    <g font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="15">
+      <text x="-128" y="-18" fill="#8b9bad">$ pytest tests/</text>
+      <text x="-128" y="8" fill="#2dd4bf">✓ passed</text>
+      <text x="-128" y="34" fill="#c5d1dd">quality: <tspan fill="#2dd4bf">built-in</tspan></text>
+    </g>
+  </g>
+</svg>
