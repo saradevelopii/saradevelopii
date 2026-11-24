@@ -9,13 +9,12 @@
 
 ### Sobre mim
 
-- 🧪 Mais de **4 anos em Qualidade de Software**, com experiência em e-commerce, checkout, pagamentos, APIs, web e mobile
-- 🤖 Automação de testes com **Python, Pytest, Robot Framework, Selenium e Playwright**, integrada a **CI/CD**
-- ⚡ Testes de carga e estresse com **Locust**
-- 🔄 Times ágeis com **Scrum e Kanban**, aplicando **shift-left** e cultura de qualidade
-- 💻 **Desenvolvedora**: crio aplicações web de ponta a ponta, do código à publicação, com JavaScript, Firebase e Supabase
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Anhanguera
-
+- Mais de **4 anos em Qualidade de Software**, com experiência em e-commerce, checkout, pagamentos, APIs, web e mobile
+- Automação de testes com **Python, Pytest, Robot Framework, Selenium e Playwright**, integrada a **CI/CD**
+- Testes de carga e estresse com **Locust**
+- Times ágeis com **Scrum e Kanban**, aplicando **shift-left** e cultura de qualidade
+- **Desenvolvedora**: crio aplicações web de ponta a ponta, do código à publicação, com JavaScript, Firebase e Supabase
+- Cursando **Análise e Desenvolvimento de Sistemas** na Anhanguera
 > Qualidade não é etapa final — é parte de como o produto é construído.
 
 ### Ferramentas
