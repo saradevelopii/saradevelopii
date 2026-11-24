@@ -1,8 +1,7 @@
 <p align="center"><img src="./banner.svg" alt="Sara Brito — QA Engineer e Desenvolvedora" width="100%"></p>
 
 <p align="center">
-  <a href="https://saradevelopii.github.io"><img src="https://img.shields.io/badge/Portfólio-2dd4bf?style=for-the-badge&logo=githubpages&logoColor=04241f" alt="Portfólio"></a>
-  <a href="https://www.linkedin.com/in/sara-brito-"><img src="https://img.shields.io/badge/LinkedIn-151b24?style=for-the-badge&logo=linkedin&logoColor=2dd4bf&labelColor=151b24" alt="LinkedIn"></a>
+  <a href="https://saradevelopii.github.io"><img src="https://img.shields.io/badge/Portfólio-151b24?style=for-the-badge&logo=githubpages&logoColor=2dd4bf&labelColor=151b24" alt="Portfólio"></a>  <a href="https://www.linkedin.com/in/sara-brito-"><img src="https://img.shields.io/badge/LinkedIn-151b24?style=for-the-badge&logo=linkedin&logoColor=2dd4bf&labelColor=151b24" alt="LinkedIn"></a>
   <a href="mailto:sara.developi@gmail.com"><img src="https://img.shields.io/badge/E--mail-151b24?style=for-the-badge&logo=gmail&logoColor=2dd4bf&labelColor=151b24" alt="E-mail"></a>
 </p>
 
